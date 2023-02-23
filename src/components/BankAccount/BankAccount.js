@@ -41,7 +41,7 @@ const BankAccount = () => {
                 founds: (account.founds < 1000) ? account.founds : account.founds +1000,
                 }
                 if (account.savings < 1000) {
-                    alert("APrimero tienes que ahorrar 1000€");
+                    alert("Primero tienes que ahorrar 1000€");
             }
             setAccount(newAccount);
         }
