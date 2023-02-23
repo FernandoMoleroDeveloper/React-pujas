@@ -1,4 +1,8 @@
-.thunder-obsevatory{
-
-    margin: 20px;
+.bidder{
+    background-color: black;
+    color:white;
+    margin-right: 15px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 15px;
 }
